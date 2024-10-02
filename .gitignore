@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+.vs/CSharpBootcamp/v17/.suo
+.vs/CSharpBootcamp/v17/DocumentLayout.backup.json
+.vs/CSharpBootcamp/v17/DocumentLayout.json
